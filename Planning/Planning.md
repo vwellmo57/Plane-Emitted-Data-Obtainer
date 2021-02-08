@@ -8,4 +8,5 @@
   The other main issue is how will the "thing" survive? It will be falling from about 10 or more meters and with a 200 gram thing it would hit the ground at about 14 m/s, that is very fast and would almost certaily destroy a pi without adaquate protection. To solve this we will use a parachute that will deploy either after released from the plane or at and operator controlled time. 
 
 ## The Plan
-  
+The "thing" will be made of 3 main components:
+### The Housing
