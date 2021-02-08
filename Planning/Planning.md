@@ -8,5 +8,10 @@
   The other main issue is how will the "thing" survive? It will be falling from about 10 or more meters and with a 200 gram thing it would hit the ground at about 14 m/s, that is very fast and would almost certaily destroy a pi without adaquate protection. To solve this we will use a parachute that will deploy either after released from the plane or at and operator controlled time. 
 
 ## The Plan
-The "thing" will be made of 3 main components:
 ### The Housing
+The housing will hold all of the electronics such as the raspi, a camera, power, servo, accelerometer, and anything else we need. The camera will be positioned so it can take pictures or video of the ground while falling. It, the accelerometer, and the servo will need to be bolted so they can't move, the other components don't need to be bolted. 
+### The Cap
+The cap will screw onto the housing and serves to keep it safe if parachute deployment fails by isolating them from the outside. It also registers with the last component. 
+### The Top
+The top will be loosley fit onto the cap but able to fall off. It it held in place by a rubber band and servo arm and when released should fly off and release the chute. 
+##
