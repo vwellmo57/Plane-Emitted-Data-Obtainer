@@ -14,4 +14,4 @@ The housing will hold all of the electronics such as the raspi, a camera, power,
 The cap will screw onto the housing and serves to keep it safe if parachute deployment fails by isolating them from the outside. It also registers with the last component. 
 ### The Top
 The top will be loosley fit onto the cap but able to fall off. It it held in place by a rubber band and servo arm and when released should fly off and release the chute. 
-##
+### Picture
