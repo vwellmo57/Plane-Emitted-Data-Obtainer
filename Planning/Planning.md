@@ -15,4 +15,4 @@ The cap will screw onto the housing and serves to keep it safe if parachute depl
 ### The Top
 The top will be loosley fit onto the cap but able to fall off. It it held in place by a rubber band and servo arm and when released should fly off and release the chute. 
 ### Picture
-[My image](username.github.com/repository/img/image.jpg)
+[whiteboardPlane.jpg](https://github.com/vwellmo57/Plane-Emitted-Data-Obtainer/blob/main/Planning/Media/whiteboardPlane.jpg)
