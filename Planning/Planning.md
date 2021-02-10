@@ -25,4 +25,9 @@ Vann will CAD and build the device as well as write some of the code. He will al
 
 
 ## Timeline
-* 
+* March 1st - CAD for both the plane and the capsule
+* March 25th - Prototype plane and capsule constructed
+* April 15th - Completed a test drop with the capsule
+* April 25th - Capsule completely done
+* May 15th - Final Plane done
+* May 30th - Successful plane drop
