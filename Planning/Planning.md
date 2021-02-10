@@ -22,3 +22,7 @@ The top will be loosley fit onto the cap but able to fall off. It it held in pla
 Philip will build the planes and CAD them. He will also write some of the code for the device (most likley the webpage).
 ### Vann
 Vann will CAD and build the device as well as write some of the code. He will also wire control surfaces for the place. 
+
+
+## Timeline
+* 
