@@ -16,7 +16,7 @@ def SetAngle(angle):
 
 SetAngle(0)
 sleep(1) 
-SetAngle(90)
+SetAngle(30)
 sleep(1) 
 SetAngle(0) 
 
