@@ -22,7 +22,6 @@ def SetAngle(angle):
 
 def beginRecording():
     camera = picamera.PiCamera()    # Setting up the camera
-    camera.start_preview()      # You will see a preview window while recording
     camera.start_recording('video.h264') # Video will be saved at desktop
     
 
@@ -54,6 +53,5 @@ sleep(3)
 setAngle(35)
 sleep(10)
 camera.stop_recording()
-camera.stop_preview()
 pwm.stop()
 GPIO.cleanup()
