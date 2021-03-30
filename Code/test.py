@@ -22,7 +22,7 @@ def SetAngle(angle):
 
 def beginRecording():
     camera = picamera.PiCamera()    # Setting up the camera
-    camera.start_recording('video.h264') # Video will be saved at desktop
+    camera.start_recording(fileName() +'.h264') # Video will be saved at desktop
     
 
 def setAngle(angle):
@@ -51,7 +51,7 @@ def fileName():
 beginRecording()
 sleep(3)
 setAngle(35)
-sleep(10)
+sleep(10)#right here buddy boy
 camera.stop_recording()
 pwm.stop()
 GPIO.cleanup()
