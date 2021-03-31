@@ -1,0 +1,14 @@
+Wed Mar 31 05:16:50 2021
+Acceleration: 6707
+Acceleration: 4268
+Acceleration: 9456
+Acceleration: 7228
+Acceleration: 8780
+Acceleration: 575
+Wed Mar 31 05:17:24 2021
+Acceleration: 3708
+Acceleration: 8567
+Acceleration: 8696
+Acceleration: 2500
+Acceleration: 9792
+Acceleration: 7468
