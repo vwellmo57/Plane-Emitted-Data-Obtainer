@@ -51,7 +51,7 @@ def fileName():
 beginRecording()
 sleep(3)
 setAngle(35)
-sleep(10)#right here buddy boy
+sleep(6)#right here buddy boy
 camera.stop_recording()
 pwm.stop()
 GPIO.cleanup()
