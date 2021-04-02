@@ -44,35 +44,32 @@ def fileName():
 @app.route("/", methods=["GET","POST"])
 def index():
 	print(request.method)
-        if request.method == 'POST':
-            if request.form.get('button1') == 'button1':
-       
-   		        beginRecording()
-                sleep(3)
-                setAngle(35)
-
-                file1 = open(r"accelerationinfo.txt","a+")
-                file1.write(fileName()+"\n")
-
-                for x in range(300):
-                    accelx,accely,accelz = getAcceleration()
-                    accelx = str(accelx)
-                    accely = str(accely)
-                    accelz = str(accelz)
-                    file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
-                    sleep(.033333333333333)
+    if request.method == 'POST':
+        if request.form.get('button1') == 'button1':
+   	        beginRecording()
+            sleep(3)
+            setAngle(35)
+            file1 = open(r"accelerationinfo.txt","a+")
+            file1.write(fileName()+"\n")
+            for x in range(300):
+                accelx,accely,accelz = getAcceleration()
+                accelx = str(accelx)
+                accely = str(accely)
+                accelz = str(accelz)
+                file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
+                sleep(.033333333333333)
                 file1.write("\n")
                 camera.stop_recording()
                 pwm.stop()
                 GPIO.cleanup()
       
-            else:
-                return render_template("index.html")
+        else:
+            return render_template("index.html")
 
-        elif request.method == 'GET':
+    elif request.method == 'GET':
            
-            print("No Post Back Call")
-        return render_template("index.html")
+        print("No Post Back Call")
+    return render_template("index.html")
 
 
 if __name__ == "__main__":
