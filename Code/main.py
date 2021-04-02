@@ -54,17 +54,17 @@ def index():
                 file1 = open(r"accelerationinfo.txt","a+")
                 file1.write(fileName()+"\n")
 
-               for x in range(300):
-                  accelx,accely,accelz = getAcceleration()
-                  accelx = str(accelx)
-                  accely = str(accely)
-                  accelz = str(accelz)
-                  file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
-                  sleep(.033333333333333)
-               file1.write("\n")
-               camera.stop_recording()
-               pwm.stop()
-               GPIO.cleanup()
+                for x in range(300):
+                    accelx,accely,accelz = getAcceleration()
+                    accelx = str(accelx)
+                    accely = str(accely)
+                    accelz = str(accelz)
+                    file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
+                    sleep(.033333333333333)
+                file1.write("\n")
+                camera.stop_recording()
+                pwm.stop()
+                GPIO.cleanup()
       
             else:
                 return render_template("index.html")
