@@ -63,7 +63,7 @@ def index():
                 			pwm.stop()
                 			GPIO.cleanup()
       
-        	else:
+      		else:
             		return render_template("index.html")
 
 	elif request.method == 'GET':
