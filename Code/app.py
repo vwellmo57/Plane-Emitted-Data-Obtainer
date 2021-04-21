@@ -15,7 +15,7 @@ GPIO.setmode(GPIO.BOARD)
 GPIO.setup(11, GPIO.OUT)
 pwm=GPIO.PWM(11, 50)
 pwm.start(0)
-acceleration = Adafruit_LSM303.LSM303()
+acceleration = Adafruit_Python_LSM303.LSM303()
 
 
 app = Flask(__name__)
