@@ -69,7 +69,7 @@ def index():
 	elif request.method == 'GET':
          
         	print("No Post Back Call")
-    return render_template("index.html")
+    	return render_template("index.html")
 
 
 if __name__ == "__main__":
