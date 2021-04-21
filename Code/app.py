@@ -63,12 +63,12 @@ def index():
                 		pwm.stop()
                 		GPIO.cleanup()
       
-        else:
-            return render_template("index.html")
+        	else:
+            		return render_template("index.html")
 
-    elif request.method == 'GET':
+	elif request.method == 'GET':
          
-        print("No Post Back Call")
+        	print("No Post Back Call")
     return render_template("index.html")
 
 
