@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 import random
 import time
 import picamera
-import Adafruit_LSM303
+import Adafruit_Python_LSM303
 
 camera = picamera.PiCamera()    # Setting up the camera
 GPIO.setmode(GPIO.BOARD)
