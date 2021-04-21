@@ -45,7 +45,7 @@ def fileName():
 def index():
 	print(request.method)
         if request.method == 'POST':
-        if request.form.get('button1') == 'button1':
+        	if request.form.get('button1') == 'button1':
    	        beginRecording()
             sleep(3)
             setAngle(35)
