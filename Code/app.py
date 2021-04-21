@@ -44,7 +44,7 @@ def fileName():
 @app.route("/", methods=["GET","POST"])
 def index():
 	print(request.method)
-    if request.method == 'POST':
+        if request.method == 'POST':
         if request.form.get('button1') == 'button1':
    	        beginRecording()
             sleep(3)
