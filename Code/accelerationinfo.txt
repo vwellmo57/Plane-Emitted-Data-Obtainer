@@ -12,3 +12,204 @@ Acceleration: 8696
 Acceleration: 2500
 Acceleration: 9792
 Acceleration: 7468
+Mon Apr 26 14:57:23 2021
+X Axis: 9  Y Axis: -982  Z Axis: -251
+
+X Axis: 11  Y Axis: -982  Z Axis: -249
+
+X Axis: 11  Y Axis: -982  Z Axis: -249
+
+X Axis: 8  Y Axis: -981  Z Axis: -245
+
+X Axis: 8  Y Axis: -981  Z Axis: -245
+
+X Axis: 8  Y Axis: -981  Z Axis: -245
+
+X Axis: 4  Y Axis: -977  Z Axis: -246
+
+X Axis: 4  Y Axis: -977  Z Axis: -246
+
+X Axis: 6  Y Axis: -977  Z Axis: -248
+
+X Axis: 6  Y Axis: -977  Z Axis: -248
+
+X Axis: 6  Y Axis: -977  Z Axis: -248
+
+X Axis: 4  Y Axis: -977  Z Axis: -243
+
+X Axis: 4  Y Axis: -977  Z Axis: -243
+
+X Axis: 4  Y Axis: -977  Z Axis: -243
+
+X Axis: 4  Y Axis: -977  Z Axis: -243
+
+X Axis: 4  Y Axis: -977  Z Axis: -243
+
+X Axis: 3  Y Axis: -980  Z Axis: -245
+
+X Axis: 3  Y Axis: -980  Z Axis: -245
+
+X Axis: 3  Y Axis: -980  Z Axis: -245
+
+X Axis: 4  Y Axis: -983  Z Axis: -241
+
+X Axis: 4  Y Axis: -983  Z Axis: -241
+
+X Axis: 4  Y Axis: -983  Z Axis: -241
+
+X Axis: 4  Y Axis: -979  Z Axis: -246
+
+X Axis: 4  Y Axis: -979  Z Axis: -246
+
+X Axis: 0  Y Axis: -981  Z Axis: -249
+
+X Axis: 0  Y Axis: -981  Z Axis: -249
+
+X Axis: 0  Y Axis: -981  Z Axis: -249
+
+X Axis: 0  Y Axis: -980  Z Axis: -248
+
+X Axis: 0  Y Axis: -980  Z Axis: -248
+
+X Axis: 0  Y Axis: -980  Z Axis: -248
+
+X Axis: 3  Y Axis: -983  Z Axis: -247
+
+X Axis: 3  Y Axis: -983  Z Axis: -247
+
+X Axis: 8  Y Axis: -983  Z Axis: -246
+
+X Axis: 8  Y Axis: -983  Z Axis: -246
+
+X Axis: 8  Y Axis: -983  Z Axis: -246
+
+X Axis: 6  Y Axis: -982  Z Axis: -246
+
+X Axis: 6  Y Axis: -982  Z Axis: -246
+
+X Axis: 6  Y Axis: -982  Z Axis: -246
+
+X Axis: 2  Y Axis: -979  Z Axis: -250
+
+X Axis: 2  Y Axis: -979  Z Axis: -250
+
+X Axis: 8  Y Axis: -983  Z Axis: -249
+
+X Axis: 8  Y Axis: -983  Z Axis: -249
+
+X Axis: 8  Y Axis: -983  Z Axis: -249
+
+X Axis: 8  Y Axis: -982  Z Axis: -250
+
+X Axis: 8  Y Axis: -982  Z Axis: -250
+
+X Axis: 9  Y Axis: -981  Z Axis: -251
+
+X Axis: 9  Y Axis: -981  Z Axis: -251
+
+X Axis: 9  Y Axis: -981  Z Axis: -251
+
+X Axis: 9  Y Axis: -981  Z Axis: -248
+
+X Axis: 9  Y Axis: -981  Z Axis: -248
+
+X Axis: 9  Y Axis: -981  Z Axis: -248
+
+X Axis: 7  Y Axis: -979  Z Axis: -247
+
+X Axis: 7  Y Axis: -979  Z Axis: -247
+
+X Axis: 6  Y Axis: -979  Z Axis: -247
+
+X Axis: 6  Y Axis: -979  Z Axis: -247
+
+X Axis: 6  Y Axis: -979  Z Axis: -247
+
+X Axis: 1  Y Axis: -981  Z Axis: -247
+
+X Axis: 1  Y Axis: -981  Z Axis: -247
+
+X Axis: 1  Y Axis: -981  Z Axis: -247
+
+X Axis: 4  Y Axis: -979  Z Axis: -248
+
+X Axis: 4  Y Axis: -979  Z Axis: -248
+
+X Axis: 5  Y Axis: -977  Z Axis: -248
+
+X Axis: 5  Y Axis: -977  Z Axis: -248
+
+X Axis: 5  Y Axis: -977  Z Axis: -248
+
+X Axis: 4  Y Axis: -979  Z Axis: -246
+
+X Axis: 4  Y Axis: -979  Z Axis: -246
+
+X Axis: 4  Y Axis: -979  Z Axis: -246
+
+X Axis: 4  Y Axis: -981  Z Axis: -243
+
+X Axis: 4  Y Axis: -981  Z Axis: -243
+
+X Axis: 5  Y Axis: -979  Z Axis: -244
+
+X Axis: 5  Y Axis: -979  Z Axis: -244
+
+X Axis: 5  Y Axis: -979  Z Axis: -244
+
+X Axis: 8  Y Axis: -981  Z Axis: -247
+
+X Axis: 8  Y Axis: -981  Z Axis: -247
+
+X Axis: 8  Y Axis: -981  Z Axis: -247
+
+X Axis: 10  Y Axis: -979  Z Axis: -248
+
+X Axis: 10  Y Axis: -979  Z Axis: -248
+
+X Axis: 9  Y Axis: -978  Z Axis: -247
+
+X Axis: 9  Y Axis: -978  Z Axis: -247
+
+X Axis: 9  Y Axis: -978  Z Axis: -247
+
+X Axis: 7  Y Axis: -977  Z Axis: -247
+
+X Axis: 7  Y Axis: -977  Z Axis: -247
+
+X Axis: 8  Y Axis: -976  Z Axis: -247
+
+X Axis: 8  Y Axis: -976  Z Axis: -247
+
+X Axis: 8  Y Axis: -976  Z Axis: -247
+
+X Axis: 5  Y Axis: -979  Z Axis: -247
+
+X Axis: 5  Y Axis: -979  Z Axis: -247
+
+X Axis: 5  Y Axis: -979  Z Axis: -247
+
+X Axis: 9  Y Axis: -980  Z Axis: -248
+
+X Axis: 9  Y Axis: -980  Z Axis: -248
+
+X Axis: 10  Y Axis: -981  Z Axis: -253
+
+X Axis: 10  Y Axis: -981  Z Axis: -253
+
+X Axis: 10  Y Axis: -981  Z Axis: -253
+
+X Axis: 7  Y Axis: -979  Z Axis: -251
+
+X Axis: 7  Y Axis: -979  Z Axis: -251
+
+X Axis: 7  Y Axis: -979  Z Axis: -251
+
+X Axis: 7  Y Axis: -981  Z Axis: -249
+
+X Axis: 7  Y Axis: -981  Z Axis: -249
+
+X Axis: 7  Y Axis: -979  Z Axis: -247
+
+X Axis: 7  Y Axis: -979  Z Axis: -247
+
