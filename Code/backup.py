@@ -40,7 +40,7 @@ sleep(3)
 setAngle(35)
 file1 = open(r"accelerationinfo.txt","a+")
 file1.write(fileName()+"\n")
-for x in range(300):
+for x in range(100):
 	accelx,accely,accelz = getAcceleration()
 	accelx = str(accelx)
 	accely = str(accely)
