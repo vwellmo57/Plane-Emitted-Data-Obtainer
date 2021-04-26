@@ -1,4 +1,3 @@
-from flask import Flask, render_template, request
 from time import sleep
 import RPi.GPIO as GPIO
 import random
@@ -14,7 +13,6 @@ pwm.start(0)
 acceleration = Adafruit_LSM303.LSM303()
 
 
-app = Flask(__name__)
 def beginRecording():
     camera.start_recording(fileName() +'.h264') # Video will be saved at desktop
 
