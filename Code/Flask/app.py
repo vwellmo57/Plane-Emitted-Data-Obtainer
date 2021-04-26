@@ -62,9 +62,9 @@ def index():
 				file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
 				sleep(.033333333333333)
 				file1.write("\n")
-				camera.stop_recording()
-				pwm.stop()
-				GPIO.cleanup()
+			camera.stop_recording()
+			pwm.stop()
+			GPIO.cleanup()
 		else:
 			return render_template("index.html")
 
