@@ -36,8 +36,8 @@ def fileName():
     return name
 
 beginRecording()
-sleep(3)
-setAngle(35)
+sleep(2) #delay between recording start and release
+setAngle(35) #release 
 file1 = open(r"accelerationinfo.txt","a+")
 file1.write(fileName()+"\n")
 for x in range(300):
@@ -46,7 +46,7 @@ for x in range(300):
 	accely = str(accely)
 	accelz = str(accelz)
 	file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n")
-	sleep(.033333333333333)
+	sleep(.03)
 	file1.write("\n")
 camera.stop_recording()
 pwm.stop()
