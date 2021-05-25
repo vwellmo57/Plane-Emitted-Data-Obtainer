@@ -213,3 +213,604 @@ X Axis: 7  Y Axis: -979  Z Axis: -247
 
 X Axis: 7  Y Axis: -979  Z Axis: -247
 
+Tue May 25 18:57:08 2021
+X Axis: 99  Y Axis: -189  Z Axis: -685
+
+X Axis: 99  Y Axis: -189  Z Axis: -685
+
+X Axis: 259  Y Axis: -784  Z Axis: 678
+
+X Axis: 259  Y Axis: -784  Z Axis: 678
+
+X Axis: 259  Y Axis: -784  Z Axis: 678
+
+X Axis: 125  Y Axis: -385  Z Axis: 312
+
+X Axis: 125  Y Axis: -385  Z Axis: 312
+
+X Axis: 125  Y Axis: -385  Z Axis: 312
+
+X Axis: 1068  Y Axis: -1212  Z Axis: -241
+
+X Axis: 1068  Y Axis: -1212  Z Axis: -241
+
+X Axis: 1068  Y Axis: -1212  Z Axis: -241
+
+X Axis: 520  Y Axis: -604  Z Axis: -160
+
+X Axis: 520  Y Axis: -604  Z Axis: -160
+
+X Axis: 268  Y Axis: -279  Z Axis: -41
+
+X Axis: 268  Y Axis: -279  Z Axis: -41
+
+X Axis: 268  Y Axis: -279  Z Axis: -41
+
+X Axis: 302  Y Axis: 48  Z Axis: 314
+
+X Axis: 302  Y Axis: 48  Z Axis: 314
+
+X Axis: 302  Y Axis: 48  Z Axis: 314
+
+X Axis: 969  Y Axis: 832  Z Axis: -471
+
+X Axis: 969  Y Axis: 832  Z Axis: -471
+
+X Axis: 969  Y Axis: 832  Z Axis: -471
+
+X Axis: 1290  Y Axis: 1146  Z Axis: -840
+
+X Axis: 1290  Y Axis: 1146  Z Axis: -840
+
+X Axis: 1290  Y Axis: 1146  Z Axis: -840
+
+X Axis: 1096  Y Axis: 810  Z Axis: -614
+
+X Axis: 1096  Y Axis: 810  Z Axis: -614
+
+X Axis: 1096  Y Axis: 810  Z Axis: -614
+
+X Axis: 980  Y Axis: 609  Z Axis: -463
+
+X Axis: 980  Y Axis: 609  Z Axis: -463
+
+X Axis: 980  Y Axis: 609  Z Axis: -463
+
+X Axis: 934  Y Axis: 535  Z Axis: -387
+
+X Axis: 934  Y Axis: 535  Z Axis: -387
+
+X Axis: 934  Y Axis: 535  Z Axis: -387
+
+X Axis: 907  Y Axis: 490  Z Axis: -344
+
+X Axis: 907  Y Axis: 490  Z Axis: -344
+
+X Axis: 907  Y Axis: 490  Z Axis: -344
+
+X Axis: 899  Y Axis: 470  Z Axis: -334
+
+X Axis: 899  Y Axis: 470  Z Axis: -334
+
+X Axis: 899  Y Axis: 470  Z Axis: -334
+
+X Axis: 894  Y Axis: 458  Z Axis: -327
+
+X Axis: 894  Y Axis: 458  Z Axis: -327
+
+X Axis: 894  Y Axis: 458  Z Axis: -327
+
+X Axis: 889  Y Axis: 452  Z Axis: -318
+
+X Axis: 889  Y Axis: 452  Z Axis: -318
+
+X Axis: 888  Y Axis: 447  Z Axis: -322
+
+X Axis: 888  Y Axis: 447  Z Axis: -322
+
+X Axis: 888  Y Axis: 447  Z Axis: -322
+
+X Axis: 888  Y Axis: 449  Z Axis: -321
+
+X Axis: 888  Y Axis: 449  Z Axis: -321
+
+X Axis: 888  Y Axis: 449  Z Axis: -321
+
+X Axis: 886  Y Axis: 449  Z Axis: -319
+
+X Axis: 886  Y Axis: 449  Z Axis: -319
+
+X Axis: 886  Y Axis: 449  Z Axis: -319
+
+X Axis: 887  Y Axis: 450  Z Axis: -320
+
+X Axis: 887  Y Axis: 450  Z Axis: -320
+
+X Axis: 887  Y Axis: 450  Z Axis: -320
+
+X Axis: 888  Y Axis: 450  Z Axis: -321
+
+X Axis: 888  Y Axis: 450  Z Axis: -321
+
+X Axis: 888  Y Axis: 450  Z Axis: -321
+
+X Axis: 884  Y Axis: 447  Z Axis: -317
+
+X Axis: 884  Y Axis: 447  Z Axis: -317
+
+X Axis: 884  Y Axis: 447  Z Axis: -317
+
+X Axis: 887  Y Axis: 447  Z Axis: -317
+
+X Axis: 887  Y Axis: 447  Z Axis: -317
+
+X Axis: 887  Y Axis: 446  Z Axis: -314
+
+X Axis: 887  Y Axis: 446  Z Axis: -314
+
+X Axis: 887  Y Axis: 446  Z Axis: -314
+
+X Axis: 888  Y Axis: 448  Z Axis: -315
+
+X Axis: 888  Y Axis: 448  Z Axis: -315
+
+X Axis: 888  Y Axis: 448  Z Axis: -315
+
+X Axis: 888  Y Axis: 447  Z Axis: -306
+
+X Axis: 888  Y Axis: 447  Z Axis: -306
+
+X Axis: 888  Y Axis: 447  Z Axis: -306
+
+X Axis: 887  Y Axis: 449  Z Axis: -306
+
+X Axis: 887  Y Axis: 449  Z Axis: -306
+
+X Axis: 887  Y Axis: 449  Z Axis: -306
+
+X Axis: 887  Y Axis: 449  Z Axis: -310
+
+X Axis: 887  Y Axis: 449  Z Axis: -310
+
+X Axis: 887  Y Axis: 449  Z Axis: -310
+
+X Axis: 888  Y Axis: 446  Z Axis: -311
+
+X Axis: 888  Y Axis: 446  Z Axis: -311
+
+X Axis: 888  Y Axis: 446  Z Axis: -311
+
+X Axis: 885  Y Axis: 447  Z Axis: -310
+
+X Axis: 885  Y Axis: 447  Z Axis: -310
+
+X Axis: 885  Y Axis: 447  Z Axis: -310
+
+X Axis: 885  Y Axis: 446  Z Axis: -310
+
+X Axis: 885  Y Axis: 446  Z Axis: -310
+
+X Axis: 885  Y Axis: 446  Z Axis: -310
+
+X Axis: 883  Y Axis: 445  Z Axis: -307
+
+X Axis: 883  Y Axis: 445  Z Axis: -307
+
+X Axis: 885  Y Axis: 443  Z Axis: -312
+
+X Axis: 885  Y Axis: 443  Z Axis: -312
+
+X Axis: 885  Y Axis: 443  Z Axis: -312
+
+X Axis: 888  Y Axis: 445  Z Axis: -309
+
+X Axis: 888  Y Axis: 445  Z Axis: -309
+
+X Axis: 888  Y Axis: 445  Z Axis: -309
+
+X Axis: 878  Y Axis: 436  Z Axis: -311
+
+X Axis: 878  Y Axis: 436  Z Axis: -311
+
+X Axis: 878  Y Axis: 436  Z Axis: -311
+
+X Axis: 872  Y Axis: 441  Z Axis: -312
+
+X Axis: 872  Y Axis: 441  Z Axis: -312
+
+X Axis: 872  Y Axis: 441  Z Axis: -312
+
+X Axis: 879  Y Axis: 446  Z Axis: -309
+
+X Axis: 879  Y Axis: 446  Z Axis: -309
+
+X Axis: 879  Y Axis: 446  Z Axis: -309
+
+X Axis: 881  Y Axis: 447  Z Axis: -307
+
+X Axis: 881  Y Axis: 447  Z Axis: -307
+
+X Axis: 881  Y Axis: 447  Z Axis: -307
+
+X Axis: 881  Y Axis: 453  Z Axis: -307
+
+X Axis: 881  Y Axis: 453  Z Axis: -307
+
+X Axis: 881  Y Axis: 453  Z Axis: -307
+
+X Axis: 893  Y Axis: 454  Z Axis: -318
+
+X Axis: 893  Y Axis: 454  Z Axis: -318
+
+X Axis: 893  Y Axis: 454  Z Axis: -318
+
+X Axis: 889  Y Axis: 452  Z Axis: -313
+
+X Axis: 889  Y Axis: 452  Z Axis: -313
+
+X Axis: 889  Y Axis: 452  Z Axis: -313
+
+X Axis: 892  Y Axis: 440  Z Axis: -323
+
+X Axis: 892  Y Axis: 440  Z Axis: -323
+
+X Axis: 886  Y Axis: 445  Z Axis: -314
+
+X Axis: 886  Y Axis: 445  Z Axis: -314
+
+X Axis: 886  Y Axis: 445  Z Axis: -314
+
+X Axis: 882  Y Axis: 446  Z Axis: -316
+
+X Axis: 882  Y Axis: 446  Z Axis: -316
+
+X Axis: 882  Y Axis: 446  Z Axis: -316
+
+X Axis: 882  Y Axis: 445  Z Axis: -315
+
+X Axis: 882  Y Axis: 445  Z Axis: -315
+
+X Axis: 882  Y Axis: 445  Z Axis: -315
+
+X Axis: 883  Y Axis: 448  Z Axis: -314
+
+X Axis: 883  Y Axis: 448  Z Axis: -314
+
+X Axis: 883  Y Axis: 448  Z Axis: -314
+
+X Axis: 886  Y Axis: 444  Z Axis: -316
+
+X Axis: 886  Y Axis: 444  Z Axis: -316
+
+X Axis: 886  Y Axis: 444  Z Axis: -316
+
+X Axis: 885  Y Axis: 444  Z Axis: -315
+
+X Axis: 885  Y Axis: 444  Z Axis: -315
+
+X Axis: 885  Y Axis: 444  Z Axis: -315
+
+X Axis: 884  Y Axis: 445  Z Axis: -312
+
+X Axis: 884  Y Axis: 445  Z Axis: -312
+
+X Axis: 884  Y Axis: 445  Z Axis: -312
+
+X Axis: 880  Y Axis: 447  Z Axis: -315
+
+X Axis: 880  Y Axis: 447  Z Axis: -315
+
+X Axis: 880  Y Axis: 447  Z Axis: -315
+
+X Axis: 882  Y Axis: 448  Z Axis: -314
+
+X Axis: 882  Y Axis: 448  Z Axis: -314
+
+X Axis: 882  Y Axis: 448  Z Axis: -314
+
+X Axis: 883  Y Axis: 449  Z Axis: -313
+
+X Axis: 883  Y Axis: 449  Z Axis: -313
+
+X Axis: 883  Y Axis: 449  Z Axis: -313
+
+X Axis: 882  Y Axis: 448  Z Axis: -314
+
+X Axis: 882  Y Axis: 448  Z Axis: -314
+
+X Axis: 882  Y Axis: 448  Z Axis: -316
+
+X Axis: 882  Y Axis: 448  Z Axis: -316
+
+X Axis: 882  Y Axis: 448  Z Axis: -316
+
+X Axis: 884  Y Axis: 448  Z Axis: -316
+
+X Axis: 884  Y Axis: 448  Z Axis: -316
+
+X Axis: 884  Y Axis: 448  Z Axis: -316
+
+X Axis: 885  Y Axis: 446  Z Axis: -318
+
+X Axis: 885  Y Axis: 446  Z Axis: -318
+
+X Axis: 885  Y Axis: 446  Z Axis: -318
+
+X Axis: 887  Y Axis: 448  Z Axis: -318
+
+X Axis: 887  Y Axis: 448  Z Axis: -318
+
+X Axis: 887  Y Axis: 448  Z Axis: -318
+
+X Axis: 888  Y Axis: 448  Z Axis: -317
+
+X Axis: 888  Y Axis: 448  Z Axis: -317
+
+X Axis: 888  Y Axis: 448  Z Axis: -317
+
+X Axis: 885  Y Axis: 447  Z Axis: -314
+
+X Axis: 885  Y Axis: 447  Z Axis: -314
+
+X Axis: 885  Y Axis: 447  Z Axis: -314
+
+X Axis: 888  Y Axis: 449  Z Axis: -311
+
+X Axis: 888  Y Axis: 449  Z Axis: -311
+
+X Axis: 888  Y Axis: 449  Z Axis: -311
+
+X Axis: 889  Y Axis: 447  Z Axis: -311
+
+X Axis: 889  Y Axis: 447  Z Axis: -311
+
+X Axis: 887  Y Axis: 448  Z Axis: -315
+
+X Axis: 887  Y Axis: 448  Z Axis: -315
+
+X Axis: 887  Y Axis: 448  Z Axis: -315
+
+X Axis: 887  Y Axis: 447  Z Axis: -312
+
+X Axis: 887  Y Axis: 447  Z Axis: -312
+
+X Axis: 887  Y Axis: 447  Z Axis: -312
+
+X Axis: 885  Y Axis: 448  Z Axis: -314
+
+X Axis: 885  Y Axis: 448  Z Axis: -314
+
+X Axis: 885  Y Axis: 448  Z Axis: -314
+
+X Axis: 884  Y Axis: 445  Z Axis: -313
+
+X Axis: 884  Y Axis: 445  Z Axis: -313
+
+X Axis: 884  Y Axis: 445  Z Axis: -313
+
+X Axis: 882  Y Axis: 447  Z Axis: -309
+
+X Axis: 882  Y Axis: 447  Z Axis: -309
+
+X Axis: 882  Y Axis: 447  Z Axis: -309
+
+X Axis: 881  Y Axis: 449  Z Axis: -308
+
+X Axis: 881  Y Axis: 449  Z Axis: -308
+
+X Axis: 881  Y Axis: 449  Z Axis: -308
+
+X Axis: 884  Y Axis: 446  Z Axis: -308
+
+X Axis: 884  Y Axis: 446  Z Axis: -308
+
+X Axis: 884  Y Axis: 446  Z Axis: -308
+
+X Axis: 884  Y Axis: 452  Z Axis: -314
+
+X Axis: 884  Y Axis: 452  Z Axis: -314
+
+X Axis: 884  Y Axis: 452  Z Axis: -314
+
+X Axis: 885  Y Axis: 448  Z Axis: -311
+
+X Axis: 885  Y Axis: 448  Z Axis: -311
+
+X Axis: 885  Y Axis: 448  Z Axis: -311
+
+X Axis: 889  Y Axis: 451  Z Axis: -311
+
+X Axis: 889  Y Axis: 451  Z Axis: -311
+
+X Axis: 891  Y Axis: 451  Z Axis: -310
+
+X Axis: 891  Y Axis: 451  Z Axis: -310
+
+X Axis: 891  Y Axis: 451  Z Axis: -310
+
+X Axis: 886  Y Axis: 448  Z Axis: -314
+
+X Axis: 886  Y Axis: 448  Z Axis: -314
+
+X Axis: 886  Y Axis: 448  Z Axis: -314
+
+X Axis: 885  Y Axis: 448  Z Axis: -322
+
+X Axis: 885  Y Axis: 448  Z Axis: -322
+
+X Axis: 885  Y Axis: 448  Z Axis: -322
+
+X Axis: 885  Y Axis: 452  Z Axis: -317
+
+X Axis: 885  Y Axis: 452  Z Axis: -317
+
+X Axis: 885  Y Axis: 452  Z Axis: -317
+
+X Axis: 887  Y Axis: 450  Z Axis: -311
+
+X Axis: 887  Y Axis: 450  Z Axis: -311
+
+X Axis: 887  Y Axis: 450  Z Axis: -311
+
+X Axis: 889  Y Axis: 446  Z Axis: -315
+
+X Axis: 889  Y Axis: 446  Z Axis: -315
+
+X Axis: 889  Y Axis: 446  Z Axis: -315
+
+X Axis: 889  Y Axis: 444  Z Axis: -311
+
+X Axis: 889  Y Axis: 444  Z Axis: -311
+
+X Axis: 889  Y Axis: 444  Z Axis: -311
+
+X Axis: 888  Y Axis: 447  Z Axis: -317
+
+X Axis: 888  Y Axis: 447  Z Axis: -317
+
+X Axis: 884  Y Axis: 447  Z Axis: -316
+
+X Axis: 884  Y Axis: 447  Z Axis: -316
+
+X Axis: 884  Y Axis: 447  Z Axis: -316
+
+X Axis: 885  Y Axis: 448  Z Axis: -317
+
+X Axis: 885  Y Axis: 448  Z Axis: -317
+
+X Axis: 885  Y Axis: 448  Z Axis: -317
+
+X Axis: 887  Y Axis: 449  Z Axis: -319
+
+X Axis: 887  Y Axis: 449  Z Axis: -319
+
+X Axis: 887  Y Axis: 449  Z Axis: -319
+
+X Axis: 885  Y Axis: 452  Z Axis: -313
+
+X Axis: 885  Y Axis: 452  Z Axis: -313
+
+X Axis: 885  Y Axis: 452  Z Axis: -313
+
+X Axis: 884  Y Axis: 448  Z Axis: -312
+
+X Axis: 884  Y Axis: 448  Z Axis: -312
+
+X Axis: 884  Y Axis: 448  Z Axis: -312
+
+X Axis: 882  Y Axis: 448  Z Axis: -311
+
+X Axis: 882  Y Axis: 448  Z Axis: -311
+
+X Axis: 882  Y Axis: 448  Z Axis: -311
+
+X Axis: 886  Y Axis: 449  Z Axis: -318
+
+X Axis: 886  Y Axis: 449  Z Axis: -318
+
+X Axis: 886  Y Axis: 449  Z Axis: -318
+
+X Axis: 890  Y Axis: 446  Z Axis: -317
+
+X Axis: 890  Y Axis: 446  Z Axis: -317
+
+X Axis: 890  Y Axis: 446  Z Axis: -317
+
+X Axis: 886  Y Axis: 450  Z Axis: -315
+
+X Axis: 886  Y Axis: 450  Z Axis: -315
+
+X Axis: 886  Y Axis: 450  Z Axis: -315
+
+X Axis: 887  Y Axis: 448  Z Axis: -318
+
+X Axis: 887  Y Axis: 448  Z Axis: -318
+
+X Axis: 1016  Y Axis: 516  Z Axis: -331
+
+X Axis: 1016  Y Axis: 516  Z Axis: -331
+
+X Axis: 1016  Y Axis: 516  Z Axis: -331
+
+X Axis: 1035  Y Axis: 443  Z Axis: -350
+
+X Axis: 1035  Y Axis: 443  Z Axis: -350
+
+X Axis: 1035  Y Axis: 443  Z Axis: -350
+
+X Axis: 959  Y Axis: 449  Z Axis: -332
+
+X Axis: 959  Y Axis: 449  Z Axis: -332
+
+X Axis: 959  Y Axis: 449  Z Axis: -332
+
+X Axis: 977  Y Axis: 483  Z Axis: -333
+
+X Axis: 977  Y Axis: 483  Z Axis: -333
+
+X Axis: 977  Y Axis: 483  Z Axis: -333
+
+X Axis: 952  Y Axis: 530  Z Axis: -483
+
+X Axis: 952  Y Axis: 530  Z Axis: -483
+
+X Axis: 952  Y Axis: 530  Z Axis: -483
+
+X Axis: 967  Y Axis: 685  Z Axis: -402
+
+X Axis: 967  Y Axis: 685  Z Axis: -402
+
+X Axis: 967  Y Axis: 685  Z Axis: -402
+
+X Axis: 974  Y Axis: 802  Z Axis: -201
+
+X Axis: 974  Y Axis: 802  Z Axis: -201
+
+X Axis: 974  Y Axis: 802  Z Axis: -201
+
+X Axis: 905  Y Axis: 892  Z Axis: -136
+
+X Axis: 905  Y Axis: 892  Z Axis: -136
+
+X Axis: 905  Y Axis: 892  Z Axis: -136
+
+X Axis: 733  Y Axis: 877  Z Axis: 78
+
+X Axis: 733  Y Axis: 877  Z Axis: 78
+
+X Axis: 566  Y Axis: 833  Z Axis: 208
+
+X Axis: 566  Y Axis: 833  Z Axis: 208
+
+X Axis: 566  Y Axis: 833  Z Axis: 208
+
+X Axis: 387  Y Axis: 813  Z Axis: 300
+
+X Axis: 387  Y Axis: 813  Z Axis: 300
+
+X Axis: 387  Y Axis: 813  Z Axis: 300
+
+X Axis: 253  Y Axis: 764  Z Axis: 372
+
+X Axis: 253  Y Axis: 764  Z Axis: 372
+
+X Axis: 253  Y Axis: 764  Z Axis: 372
+
+X Axis: 205  Y Axis: 807  Z Axis: 427
+
+X Axis: 205  Y Axis: 807  Z Axis: 427
+
+X Axis: 205  Y Axis: 807  Z Axis: 427
+
+X Axis: 128  Y Axis: 772  Z Axis: 454
+
+X Axis: 128  Y Axis: 772  Z Axis: 454
+
+X Axis: 128  Y Axis: 772  Z Axis: 454
+
+X Axis: 104  Y Axis: 793  Z Axis: 438
+
+X Axis: 104  Y Axis: 793  Z Axis: 438
+
+X Axis: 104  Y Axis: 793  Z Axis: 438
+
