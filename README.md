@@ -7,3 +7,20 @@ After dropping the Pi, the acceleration data and footage from the capsule's came
 ## Deployment
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/849646585380995112/unknown.png)
+
+Our Pi was controlled by this website, the three buttons on the screen allowed us to control every aspect of our drop. Selecting the "Drop and Deploy" button would release the capsule from the plane and deploy its parachute.
+
+Plane drop:
+
+Bridge drop: https://github.com/vwellmo57/Plane-Emitted-Data-Obtainer/blob/main/Media/Mon_May_31_20_30_12_2021_(1).mp4 
+
+
+## Acceleration Data
+
+You can view all of the acceleration data here: https://github.com/vwellmo57/Plane-Emitted-Data-Obtainer/blob/main/Media/accelerationinfo.txt
+
+Highlights:
+* Focus on the Z Axis
+* Line 23: Capsule is dropped
+* Line ~93: Parachute is deployed
+* Line 145: Landing
