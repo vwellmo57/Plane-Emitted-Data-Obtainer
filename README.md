@@ -10,6 +10,8 @@ After dropping the Pi, the acceleration data and footage from the capsule's came
 
 Our Pi was controlled by this website, the three buttons on the screen allowed us to control every aspect of our drop. Selecting the "Drop and Deploy" button would release the capsule from the plane and deploy its parachute.
 
+Compilation of 2 plane drops and the bridge drop: https://www.youtube.com/watch?v=wqw0opE7P7w
+
 Plane drop: https://github.com/vwellmo57/Plane-Emitted-Data-Obtainer/blob/main/Media/ShakeAndBake2000.mp4 
 
 Bridge drop: https://github.com/vwellmo57/Plane-Emitted-Data-Obtainer/blob/main/Media/Mon_May_31_20_30_12_2021_(1).mp4 
