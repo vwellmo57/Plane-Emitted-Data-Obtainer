@@ -26,3 +26,5 @@ Highlights:
 * Line 23: Capsule is dropped
 * Line ~93: Parachute is deployed
 * Line 145: Landing
+
+![Pic](https://media.discordapp.net/attachments/356809004141248512/849662701931986974/unknown.png)
