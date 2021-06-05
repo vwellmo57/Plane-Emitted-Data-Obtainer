@@ -36,3 +36,5 @@ The design requirements for the capsule have been discussed in planning. That be
 We wanted to have a slick design that screwed together, this was achived by having the cap and the housing screw together anlong with a number of brass inserts. 
 
 ![Pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFgiztrQD9aHtxnAYWTAgmKN11DEYtGIxYA&usqp=CAU)
+
+Insterts are installed by moideling a hole in your part and using heat (soldering iron) to install the insert which acts as a nut. These worked perfectly for our use case and allowed everything to be screwed in (camera, accelerometer, servo), the pi and power components were left without mounting as it would have been difficult to screw them in and they don't need to be mounted to serve their purpose. The images below show the how we used threaded components:
