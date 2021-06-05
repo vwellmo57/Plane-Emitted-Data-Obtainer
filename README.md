@@ -40,3 +40,7 @@ We wanted to have a slick design that screwed together, this was achived by havi
 Insterts are installed by moideling a hole in your part and using heat (soldering iron) to install the insert which acts as a nut. These worked perfectly for our use case and allowed everything to be screwed in (camera, accelerometer, servo), the pi and power components were left without mounting as it would have been difficult to screw them in and they don't need to be mounted to serve their purpose. The images below show the how we used threaded components:
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850582074015875113/unknown.png)
+
+A piece of acrylic was used to protect the lens and because it looks cool. The top and cap are held together with a shelf that registers them and a rubber band with string on the end that attaches to a servo arm and fixed mount. The string slides into the casing and the contraption is released. 
+
+![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850448115231883264/unknown.png)
