@@ -28,3 +28,6 @@ Highlights:
 * Line 145: Landing
 
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/849662701931986974/unknown.png)
+
+## Building the Capsule
+The design requirnments for the capsule have been discusees in planning. 
