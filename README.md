@@ -30,4 +30,4 @@ Highlights:
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/849662701931986974/unknown.png)
 
 ## Building the Capsule
-The design requirnments for the capsule have been discusees in planning. 
+The design requirnments for the capsule have been discusees in planning. That being said the actual version did not meet all of the requinments, namely size (which is not a big deal, it came in at 170g, under the goal of 200g) and it being able to be launched without a plane (such as off a catapult).
