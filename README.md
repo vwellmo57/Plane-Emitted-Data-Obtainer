@@ -44,3 +44,5 @@ Insterts are installed by moideling a hole in your part and using heat (solderin
 A piece of acrylic was used to protect the lens and because it looks cool. The top and cap are held together with a shelf that registers them and a rubber band with string on the end that attaches to a servo arm and fixed mount. The string slides into the casing and the contraption is released. 
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850448115231883264/unknown.png)
+
+Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told ABS would have been better but because of the massive amount of tolerancing work that had to be done with the threads, threaded insert holes, and servo holder, it was beneficial to use the fast turn around time of a personal printer. ABS is better as it is lighter and bends when its yield strength is exedded as opposed to PLA which snaps (brittle). 
