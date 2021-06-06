@@ -58,7 +58,7 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 * Efficiency
 * Flexibility
 #### Camera
-``python
+```python
 camera = picamera.PiCamera()    # Setting up the camera
 def beginRecording(): 
     camera.start_recording(fileName() +'.h264') # Video saves to same directory as code.
