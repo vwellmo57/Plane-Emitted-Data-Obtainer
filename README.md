@@ -112,5 +112,5 @@ def fileName():
 ```
 #### HTML
 ```htm
-<button type="submit" name="button1" class="button button-primary" value="button1">Drop</button>
+<button type="submit" name="button1" class="button button-primary" value="button1">Drop</button> # Declares button and allows it to communicate with python code
 ```
