@@ -58,13 +58,13 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 * Efficiency - Runs and smoothly and quickly as possible
 * Flexibility - Can be used in different scenarios that may occur
 
-#### Camera
+### Camera
 ```python
 camera = picamera.PiCamera()    # Setting up the camera
 def beginRecording(): 
     camera.start_recording(fileName() +'.h264') # Video saves to same directory as code
 ```
-#### Release
+### Release
 ```python
 def setAngle(angle):
     duty = angle / 18 + 2
@@ -75,7 +75,7 @@ def setAngle(angle):
     pwm.ChangeDutyCycle(0)
 ```
 
-#### Acceleration
+### Acceleration
 ```python
 acceleration = Adafruit_LSM303.LSM303() # Assigning accelerometer
 def getAcceleration():
@@ -97,13 +97,13 @@ X Axis: 8  Y Axis: -981  Z Axis: -245
 X Axis: 8  Y Axis: -981  Z Axis: -245
 ```
 
-#### Filename
+### Filename
 ```python
 def fileName():
     return time.asctime() # Simply returns time and date info
 ```
 
-#### Body
+### Body
 ```python
 		if request.form.get('button1') == 'button1': 
 			beginRecording() # Starts recording
@@ -123,7 +123,7 @@ def fileName():
 			pwm.stop() # Cleans up
 			GPIO.cleanup()
 ```
-#### HTML
+### HTML
 ```htm
 <button type="submit" name="button1" class="button button-primary" value="button1">Drop</button> # Declares button and allows it to communicate with python code
 ```
