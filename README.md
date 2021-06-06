@@ -132,7 +132,9 @@ Since we were both working locally we had some challenges getting all the parts 
 ### How We achieved Our Goals
 #### Friendliness
 The website's UI is very clean and responsive on mobile. This meant that we could easily connect to the Pi and give it commands without worrying about anything else. 
+
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/851180925467099196/unknown.png)
+
 #### Efficiency 
 All of the code was broken into functions. This meant that it was not only super easy for us to edit the code on a phone, but it minimized file sizes and allowed us to focus on the main body of code which is where we would edit delays and timing. 
 #### Flexibility
