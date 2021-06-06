@@ -84,7 +84,7 @@ def getAcceleration():
    return accel_x, accel_y, accel_z # Returns seperate acceleration info
 ```
 Example of Saved Accleration Information 
-```python
+```
 Mon Apr 26 14:57:23 2021
 X Axis: 9  Y Axis: -982  Z Axis: -251
 
