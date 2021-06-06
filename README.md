@@ -110,3 +110,7 @@ def fileName():
 			pwm.stop() # Cleans up
 			GPIO.cleanup()
 ```
+#### HTML
+```htm
+<button type="submit" name="button1" class="button button-primary" value="button1">Drop</button>
+```
