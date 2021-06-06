@@ -51,3 +51,15 @@ Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told ABS w
 The capsule fundamentaly worked, a larger cap would have solved the chute friction issues but the compressed timeline did not give us time to fix what would have required a massive redesign. The only other concern with the capsule is the direct mechanical connection between sensetive electronics and the capsule. The chute has a shock cord that distribute the decceleration over time but if dropped the capsule could send shock waves into electronics. This could potentially be solves by rubber washers or an o-ring althout this is speculation. Other changes would be a small shelf or tube so that the rod doesn't fall out when retracted and a rotation of the slot that holds to rubber band. In it's current form it has the band come off at and unideal angle. 
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850585454164049950/unknown.png)
+
+## Coding
+### The Goals
+* Friendliness
+* Efficiency
+* Flexibility
+#### Camera
+``python
+camera = picamera.PiCamera()    # Setting up the camera
+def beginRecording(): 
+    camera.start_recording(fileName() +'.h264') # Video saves to same directory as code.
+```
