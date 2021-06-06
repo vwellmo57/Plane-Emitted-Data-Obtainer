@@ -131,11 +131,11 @@ def fileName():
 Since we were both working locally we had some challenges getting all the parts of the project to work with each other. Early in the year Vann's Raspberry Pi stopped working so he was using Philip's in the capsule. This meant that Philip had to code everything in VS code and send the code to Vann without testing it. Luckily he was able to find and use helpful resources online which meant he didn't have to test his code frequently. The most difficult part of the coding process was coding the accelerometer and the camera since there was not much docuementation avaible online on how to record using the camera or how to collect acceleration data and output it into a text docuement. To bypass these issues Philip and Vann screenshared over Zoom, this allowed Philip to see exactly what was going wrong with his code and how to fix it. 
 ### How We achieved Our Goals
 #### Friendliness
-The website's UI is very clean and responsive on mobile. This meant that we could easily connect to the Pi and give it commands without worrying about anything else. 
+The website's UI is very clean and responsive on mobile. We could easily connect to the Pi and give it commands without worrying about anything else. 
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/851180925467099196/unknown.png)
 
 #### Efficiency 
-All of the code was broken into functions. This meant that it was not only super easy for us to edit the code on a phone, but it minimized file sizes and allowed us to focus on the main body of code which is where we would edit delays and timing. 
+All of the code was broken into functions. Not only super easy for us to edit the code on a phone, but it minimized file sizes and allowed us to focus on the main body of code which is where we would edit delays and timings. 
 #### Flexibility
 Since we had three different buttons on the website, this meant that we could drop the capsule and manually deploy the parachute OR we could run them both at the click of one button. We generally opted to just use one button, but in case that anything failed we were able to re-run the steps that did not work. 
