@@ -54,12 +54,12 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 
 ## Coding
 ### The Goals
-* Friendliness
-* Efficiency
-* Flexibility
+* Friendliness - Easy to use
+* Efficiency - Runs and smoothly and quickly as possible
+* Flexibility - Can be used in different scenarios that may occur
 #### Camera
 ```python
 camera = picamera.PiCamera()    # Setting up the camera
 def beginRecording(): 
-    camera.start_recording(fileName() +'.h264') # Video saves to same directory as code.
+    camera.start_recording(fileName() +'.h264') # Video saves to same directory as code
 ```
