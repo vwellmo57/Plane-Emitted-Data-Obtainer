@@ -57,9 +57,56 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 * Friendliness - Easy to use
 * Efficiency - Runs and smoothly and quickly as possible
 * Flexibility - Can be used in different scenarios that may occur
+
 #### Camera
 ```python
 camera = picamera.PiCamera()    # Setting up the camera
 def beginRecording(): 
     camera.start_recording(fileName() +'.h264') # Video saves to same directory as code
+```
+#### Release
+```python
+def setAngle(angle):
+    duty = angle / 18 + 2
+    GPIO.output(11, True)
+    pwm.ChangeDutyCycle(duty)
+    sleep(1)
+    GPIO.output(11, False)
+    pwm.ChangeDutyCycle(0)
+```
+
+#### Acceleration
+```python
+acceleration = Adafruit_LSM303.LSM303() # Assigning accelerometer
+def getAcceleration():
+   accel = acceleration.read() # Reads current acceleration data
+   accel_x, accel_y, accel_z = accel # Assigns to different planes
+   return accel_x, accel_y, accel_z # Returns seperate acceleration info
+```
+
+#### Filename
+```python
+def fileName():
+    return time.asctime() # Simply returns time and date info
+```
+
+#### Body
+```python
+		if request.form.get('button1') == 'button1': 
+			beginRecording() # Starts recording
+			sleep(3) # Gives pilot 3 seconds to find perfect position
+			setAngle(35) # Drops the capsule
+			file1 = open(r"accelerationinfo.txt","a+") # Prepares to save acceleration data
+			file1.write(fileName()+"\n") # Writes the date and time into a text document
+			for x in range(300): # 10 seconds
+				accelx,accely,accelz = getAcceleration() # Gathers acceleration info and declares them as strings
+				accelx = str(accelx)
+				accely = str(accely)
+				accelz = str(accelz)
+				file1.write("X Axis: " + accelx + "  Y Axis: " + accely + "  Z Axis: " + accelz + "\n") # Saves and formats acceleration info
+				sleep(.033333333333333)
+				file1.write("\n") # New line
+			camera.stop_recording() # End recording
+			pwm.stop() # Cleans up
+			GPIO.cleanup()
 ```
