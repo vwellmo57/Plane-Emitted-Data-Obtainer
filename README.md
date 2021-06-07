@@ -53,7 +53,9 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850585454164049950/unknown.png)
 
 ## The Electronics
-The electronics were comparityvley simple. They used a Raspberry Pi Zero, Power Boost 500c, a 3.7V 350mAh lipo, camera, 180 degree servo, and a LSM303DLHC. 
+The electronics were comparityvley simple. They used a Raspberry Pi Zero, Power Boost 500c, a 3.7V 350mAh lipo, camera, 180 degree servo, and a LSM303DLHC. The lipo plugged into the power boost which powered the pi. Wiring was fairly straigtforward, pins were solvered onto the acceleometer. The largest challange for electronics was getting everything to fit, ultimently it worked out, the use of silicon wires helped as they are are far more flexible. The pic below shows the wiring diagram:
+
+![Pic](https://cdn.discordapp.com/attachments/356809004141248512/851148484412702740/unknown.png)
 
 ## Coding
 ### The Goals
