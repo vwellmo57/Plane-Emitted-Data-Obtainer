@@ -2,7 +2,7 @@
 
 ## The Results
 
-After dropping the Pi, the acceleration data and footage from the capsule's camera corrupted. The capsule's code and mechanics worked flawlessly, but due to a crash that rendered the plane completely broken we were unable to have any further attempts. We decided to drop the Pi from a tall bridge to try to mimic the results. 
+After dropping the Pi, the acceleration data and footage from the capsule's camera corrupted. The capsule's code and mechanics worked flawlessly, but due to a crash that rendered the plane completely broken, we were unable to have any further attempts. We decided to drop the Pi from a tall bridge to try to mimic the results. 
 
 ## Deployment
 
@@ -33,11 +33,11 @@ Highlights:
 ### Where We Compromised 
 The design requirements for the capsule have been discussed in planning. That being said the actual version did not meet all of the requirements, namely size (which is not a big deal, it came in at 170g, under the goal of 200g) and it is able to be launched without a plane (such as off a catapult). The main reason for this was the friction created by the chute. Going in we did not expect there to be nearly as much friction between the top and the chute. The compromise was to just have the top remain on the plane after release. This was a compromise in that it did not allow the device to have as wide of a useful range and the plane's flight was very slightly negatively affected. 
 ### Construction
-We wanted to have a slick design that screwed together, this was achived by having the cap and the housing screw together anlong with a number of brass inserts. 
+We wanted to have a slick design that screwed together, this was achieved by having the cap and the housing screw together along with a number of brass inserts. 
 
 ![Pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFgiztrQD9aHtxnAYWTAgmKN11DEYtGIxYA&usqp=CAU)
 
-Insterts are installed by moideling a hole in your part and using heat (soldering iron) to install the insert which acts as a nut. These worked perfectly for our use case and allowed everything to be screwed in (camera, accelerometer, servo), the pi and power components were left without mounting as it would have been difficult to screw them in and they don't need to be mounted to serve their purpose. The images below show the how we used threaded components:
+Inserts are installed by modeling a hole in your part and using heat (soldering iron) to install the insert which acts as a nut. These worked perfectly for our use case and allowed everything to be screwed in (camera, accelerometer, servo), the pi and power components were left without mounting as it would have been difficult to screw them in and they don't need to be mounted to serve their purpose. The images below show how we used threaded components:
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850582074015875113/unknown.png)
 
@@ -45,15 +45,15 @@ A piece of acrylic was used to protect the lens and because it looks cool. The t
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850448115231883264/unknown.png)
 
-Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told ABS would have been better but because of the massive amount of tolerancing work that had to be done with the threads, threaded insert holes, and servo holder, it was beneficial to use the fast turn around time of a personal printer. ABS is better as it is lighter and bends when its yield strength is exedded as opposed to PLA which snaps (brittle). Although less than ideal the capsule was dropped from a bridge 3 times, a plane 2 times, and thrown off a bridge without a parachute once, no parts broke and the only reprints were parts that did not fit, nothing broke. 
+Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told ABS would have been better but because of the massive amount of tolerancing work that had to be done with the threads, threaded insert holes, and servo holder, it was beneficial to use the fast turnaround time of a personal printer. ABS is better as it is lighter and bends when its yield strength is exceeded as opposed to PLA which snaps (brittle). Although less than ideal the capsule was dropped from a bridge 3 times, a plane 2 times, and thrown off a bridge without a parachute once, no parts broke and the only reprints were parts that did not fit, nothing broke. 
 
 ### What We Should Have Done Better (Capsule) 
-The capsule fundamentaly worked, a larger cap would have solved the chute friction issues but the compressed timeline did not give us time to fix what would have required a massive redesign. The only other concern with the capsule is the direct mechanical connection between sensetive electronics and the capsule. The chute has a shock cord that distribute the decceleration over time but if dropped the capsule could send shock waves into electronics. This could potentially be solves by rubber washers or an o-ring althout this is speculation. Other changes would be a small shelf or tube so that the rod doesn't fall out when retracted and a rotation of the slot that holds to rubber band. In it's current form it has the band come off at and unideal angle. 
+The capsule fundamentally worked, a larger cap would have solved the chute friction issues but the compressed timeline did not give us time to fix what would have required a massive redesign. The only other concern with the capsule is the direct mechanical connection between sensitive electronics and the capsule. The chute has a shock cord that distributes the deceleration over time but if dropped the capsule could send shock waves into electronics. This could potentially be solved by rubber washers or an o-ring although this is speculation. Other changes would be a small shelf or tube so that the rod doesn't fall out when retracted and a rotation of the slot that holds to a rubber band. In its current form, it has the band come off at an unideal angle. 
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850585454164049950/unknown.png)
 
 ## The Electronics
-The electronics were comparityvley simple. They used a Raspberry Pi Zero, Power Boost 500c, a 3.7V 350mAh lipo, camera, 180 degree servo, and a LSM303DLHC. The lipo plugged into the power boost which powered the pi. Wiring was fairly straigtforward, pins were solvered onto the acceleometer. The largest challange for electronics was getting everything to fit, ultimently it worked out, the use of silicon wires helped as they are are far more flexible. The pic below shows the wiring diagram:
+The electronics were comparatively simple. They used a Raspberry Pi Zero, Power Boost 500c, a 3.7V 350mAh lipo, camera, 180-degree servo, and an LSM303DLHC. The lipo plugged into the power boost which powered the pi. Wiring was fairly straightforward, pins were soldered onto the accelerometer. The largest challenge for electronics was getting everything to fit, ultimately it worked out, the use of silicon wires helped as they are far more flexible. The pic below shows the wiring diagram:
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/851148484412702740/unknown.png)
 
@@ -133,7 +133,7 @@ def fileName():
 <button type="submit" name="button1" class="button button-primary" value="button1">Drop</button> <!-- Declares button and allows it to communicate with python code-->
 ```
 ### Challenges
-Since we were both working locally we had some challenges getting all the parts of the project to work with each other. Early in the year Vann's Raspberry Pi stopped working so he was using Philip's in the capsule. This meant that Philip had to code everything in VS code and send the code to Vann without testing it. Luckily he was able to find and use helpful resources online which meant he didn't have to test his code frequently. The most difficult part of the coding process was coding the accelerometer and the camera since there was not much docuementation avaible online on how to record using the camera or how to collect acceleration data and output it into a text docuement. To bypass these issues Philip and Vann screenshared over Zoom, this allowed Philip to see exactly what was going wrong with his code and how to fix it. 
+Since we were both working locally we had some challenges getting all the parts of the project to work with each other. Early in the year Vann's Raspberry Pi stopped working so he was using Philip's in the capsule. This meant that Philip had to code everything in VS code and send the code to Vann without testing it. Luckily he was able to find and use helpful resources online which meant he didn't have to test his code frequently. The most difficult part of the coding process was coding the accelerometer and the camera since there was not much documentation available online on how to record using the camera or how to collect acceleration data and output it into a text document. To bypass these issues Philip and Vann screen shared over Zoom, allowing Philip to see exactly what was going wrong with his code and how to fix it. 
 ### How We achieved Our Goals
 #### Friendliness
 The website's UI is very clean and responsive on mobile. We could easily connect to the Pi and give it commands without worrying about anything else. 
@@ -143,4 +143,4 @@ The website's UI is very clean and responsive on mobile. We could easily connect
 #### Efficiency 
 All of the code was broken into functions. Not only super easy for us to edit the code on a phone, but it minimized file sizes and allowed us to focus on the main body of code which is where we would edit delays and timings. 
 #### Flexibility
-Since we had three different buttons on the website, this meant that we could drop the capsule and manually deploy the parachute OR we could run them both at the click of one button. We generally opted to just use one button, but in case that anything failed we were able to re-run the steps that did not work. 
+Since we had three different buttons on the website, this meant that we could drop the capsule and manually deploy the parachute ,OR we could run them both at the click of one button. We generally opted to just use one button, but in case that anything failed we were able to re-run the steps that did not work. 
