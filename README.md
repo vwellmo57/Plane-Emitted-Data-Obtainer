@@ -52,6 +52,9 @@ The capsule fundamentaly worked, a larger cap would have solved the chute fricti
 
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850585454164049950/unknown.png)
 
+## The Electronics
+The electronics were comparityvley simple. They used a Raspberry Pi Zero, Power Boost 500c, a 3.7V 350mAh lipo, camera, 180 degree servo, and a LSM303DLHC. 
+
 ## Coding
 ### The Goals
 * Friendliness - Easy to use
