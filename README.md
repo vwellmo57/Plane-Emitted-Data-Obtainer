@@ -144,3 +144,7 @@ Highlights:
 * Line 145: Landing
 
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/849662701931986974/unknown.png)
+
+## Conclusion
+
+Overall the project was a sucess. Even though some goals were not acomplished the central goal to drop a thing from a plane and collect data was a sucess (up until the data corrupted). The capsule worked exelently, as did the code. The only consistyent failiure was the electronics failing in some way. 
