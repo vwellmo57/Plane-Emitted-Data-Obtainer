@@ -4,6 +4,7 @@
 ### Where We Compromised 
 The design requirements for the capsule have been discussed in planning. That being said the actual version did not meet all of the requirements, namely size (which is not a big deal, it came in at 170g, under the goal of 200g) and the ability to be launched without a plane. The main reason for this was the friction created by the chute. Going in we did not expect there to be nearly as much friction between the top and the chute. The compromise was to just have the top remain on the plane after release. This was a compromise in that it did not allow the device to have as wide of a useful range and the plane's flight was very slightly negatively affected. 
 ### CAD
+Link to ![Model](https://cvilleschools.onshape.com/documents/68c97000e425696819926e78/w/6c43e012a388f97888de5d04/e/84520ea57256b97bec2e727a)
 The CAD was difficult, it took a long time and there were issues with fitment. Ultimately it worked out and stayed true to the original plan. The following pictures show whole assembly in CAD as well as a section view of the capsule: 
 
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/852210686511808532/unknown.png)
