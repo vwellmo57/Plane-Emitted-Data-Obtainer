@@ -11,6 +11,7 @@ The CAD was difficult, it took a long time and there were issues with fitment. U
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/852210686511808532/unknown.png)
 ![Pic](https://media.discordapp.net/attachments/356809004141248512/852210958268891136/unknown.png)
 
+The biggest challenge outside of fitment was modeling things on a curve. The technique we mainly used was to offset a plane and sketch onto that, the biggest things to watch out for with that is avoiding zero thickness geometry. 
 ### Construction
 We wanted to have a slick design that screwed together, this was achieved by having the cap and the housing screw together along with a number of brass inserts. 
 
