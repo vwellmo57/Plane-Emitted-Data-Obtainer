@@ -17,7 +17,19 @@ A piece of acrylic was used to protect the lens and because it looks cool. The t
 ![Pic](https://cdn.discordapp.com/attachments/356809004141248512/850448115231883264/unknown.png)
 
 Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told, ABS would have been better but because of the massive amount of tolerancing work that had to be done with the threads, threaded insert holes, and servo holder, it was beneficial to use the fast turnaround time of a personal printer. ABS is better as it is lighter and bends when its yield strength is exceeded as opposed to PLA which snaps (brittle). Although less than ideal, the capsule was dropped from a bridge 3 times, a plane 2 times, and thrown off a bridge without a parachute once, no parts broke and the only reprints were parts that did not fit, nothing broke. 
-
+#### Parts List
+1. 3-D Printed Parts
+2. 6 Brass M3 inserts
+3. Acrylic Shield
+4. 6 M3 Screws
+5. Parachute and shock cord
+6. Power Boost
+7. Lipo
+8. Pi
+9. Camera
+10. Accelerometer
+11. Servo
+12. Bent paperclip (attaches to servo)
 ### What We Should Have Done Better (Capsule) 
 The capsule fundamentally worked, a larger cap would have solved the chute friction issues but the compressed timeline did not give us time to fix what would have required a massive redesign. The only other concern with the capsule is the direct mechanical connection between sensitive electronics and the capsule. The chute has a shock cord that distributes the deceleration over time but if dropped the capsule could send shock waves into electronics. This could potentially be solved by rubber washers or an o-ring although this is speculation. Other changes would be a small shelf or tube so that the rod doesn't fall out when retracted and a rotation of the slot that holds to a rubber band. In its current form, it has the band come off at an unideal angle. 
 
