@@ -31,6 +31,7 @@ Lastly, the parts were printed in PLA on Vann's 3-D printer. Truth be told, ABS 
 11. Servo
 12. Bent paperclip (attaches to servo)
 13. Rubber band and zip tie (for release mechanism)
+14. Various 3-D printed spacers
 ### What We Should Have Done Better (Capsule) 
 The capsule fundamentally worked, a larger cap would have solved the chute friction issues but the compressed timeline did not give us time to fix what would have required a massive redesign. The only other concern with the capsule is the direct mechanical connection between sensitive electronics and the capsule. The chute has a shock cord that distributes the deceleration over time but if dropped the capsule could send shock waves into electronics. This could potentially be solved by rubber washers or an o-ring although this is speculation. Other changes would be a small shelf or tube so that the rod doesn't fall out when retracted and a rotation of the slot that holds to a rubber band. In its current form, it has the band come off at an unideal angle. 
 
