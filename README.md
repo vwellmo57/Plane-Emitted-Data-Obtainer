@@ -3,6 +3,12 @@
 ## Building the Capsule
 ### Where We Compromised 
 The design requirements for the capsule have been discussed in planning. That being said the actual version did not meet all of the requirements, namely size (which is not a big deal, it came in at 170g, under the goal of 200g) and the ability to be launched without a plane. The main reason for this was the friction created by the chute. Going in we did not expect there to be nearly as much friction between the top and the chute. The compromise was to just have the top remain on the plane after release. This was a compromise in that it did not allow the device to have as wide of a useful range and the plane's flight was very slightly negatively affected. 
+### CAD
+The CAD was difficult, it took a long time and there were issues with fitment. Ultimently it worked out andd stayed true to the origional plan. The following picutres show whole assembly in CAD as well as a section view of the capsule: 
+
+![Pic](https://media.discordapp.net/attachments/356809004141248512/852210686511808532/unknown.png)
+![Pic](https://media.discordapp.net/attachments/356809004141248512/852210958268891136/unknown.png)
+
 ### Construction
 We wanted to have a slick design that screwed together, this was achieved by having the cap and the housing screw together along with a number of brass inserts. 
 
